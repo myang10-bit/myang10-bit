@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Moua Yang 👋
 
-<!--
-**myang10-bit/myang10-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Concordia University interested in backend development and building practical software systems.
 
-Here are some ideas to get you started:
+## Languages
+Java  
+Python  
+C#  
+JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+ASP.NET Core  
+REST APIs  
+PostgreSQL  
+Entity Framework Core  
+Docker  
+
+## Projects
+**Quotely API**  
+A quote management backend built with ASP.NET Core and PostgreSQL.
+
+**ZombieWar**  
+Java based simulation modeling survivors battling zombies using object oriented design.
+
+**Banking DSL**  
+Python project modeling banking operations including deposits, withdrawals, and transfers.
+
+## Currently Learning
+Web development and software engineering best practices.
